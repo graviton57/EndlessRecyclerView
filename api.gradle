@@ -1,0 +1,7 @@
+ext {
+
+     BASE_MOVIE_URL = "https://api.themoviedb.org/3/";
+     BASE_URL_IMG = "https://image.tmdb.org/t/p/w150";
+     API_KEY = "008b5db88482844391d2f0a114b658d7";
+
+}

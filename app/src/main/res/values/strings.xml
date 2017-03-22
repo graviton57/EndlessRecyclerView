@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Endless  RecyclerView</string>
+
+    <string name="error_msg">Sorry! Couldn\'t fetch movies.</string>
+    <string name="error_msg_no_internet">Not connected to internet</string>
+    <string name="error_msg_timeout">The server took too long to respond</string>
+    <string name="error_msg_unknown">An unexpected error occurred</string>
+
+    <string name="caption_btn_retry">Retry</string>
+    <string name="caption_tap_to_reload">Tap to reload</string>
+</resources>

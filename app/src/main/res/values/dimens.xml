@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="list_icon_size"              >46dp</dimen>
+    <dimen name="list_item_extra_padding"     >0dp</dimen>
+    <dimen name="activity_margin"             >16dp</dimen>
+    <dimen name="paddingItemDecorationDefault">8dp</dimen>
+    <dimen name="paddingItemDecorationEdge"   >24dp</dimen>
+    <dimen name="activity_margin_content"     >24dp</dimen>
+</resources>
